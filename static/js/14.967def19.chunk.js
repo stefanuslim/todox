@@ -1,0 +1,2 @@
+(this.webpackJsonptodox=this.webpackJsonptodox||[]).push([[14],{215:function(e,t,o){"use strict";o.r(t),o.d(t,"default",(function(){return r}));var n=o(0),a=o.n(n),c=o(36);function r(){return a.a.createElement("div",null,a.a.createElement("h1",null," Welcome to Todox"),a.a.createElement(c.b,{to:"/home"},"Go to home"))}}}]);
+//# sourceMappingURL=14.967def19.chunk.js.map

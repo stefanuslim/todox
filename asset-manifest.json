@@ -1,0 +1,43 @@
+{
+  "files": {
+    "static/js/0.a6df8840.chunk.js": "/todox/static/js/0.a6df8840.chunk.js",
+    "static/js/0.a6df8840.chunk.js.map": "/todox/static/js/0.a6df8840.chunk.js.map",
+    "static/js/1.fac1796c.chunk.js": "/todox/static/js/1.fac1796c.chunk.js",
+    "static/js/1.fac1796c.chunk.js.map": "/todox/static/js/1.fac1796c.chunk.js.map",
+    "static/js/2.74dd0321.chunk.js": "/todox/static/js/2.74dd0321.chunk.js",
+    "static/js/2.74dd0321.chunk.js.map": "/todox/static/js/2.74dd0321.chunk.js.map",
+    "static/js/3.bc5ca44b.chunk.js": "/todox/static/js/3.bc5ca44b.chunk.js",
+    "static/js/3.bc5ca44b.chunk.js.map": "/todox/static/js/3.bc5ca44b.chunk.js.map",
+    "main.js": "/todox/static/js/main.a6eeec4f.chunk.js",
+    "main.js.map": "/todox/static/js/main.a6eeec4f.chunk.js.map",
+    "runtime-main.js": "/todox/static/js/runtime-main.ab191752.js",
+    "runtime-main.js.map": "/todox/static/js/runtime-main.ab191752.js.map",
+    "static/js/6.ed7519d7.chunk.js": "/todox/static/js/6.ed7519d7.chunk.js",
+    "static/js/6.ed7519d7.chunk.js.map": "/todox/static/js/6.ed7519d7.chunk.js.map",
+    "static/js/7.d36fc5a6.chunk.js": "/todox/static/js/7.d36fc5a6.chunk.js",
+    "static/js/7.d36fc5a6.chunk.js.map": "/todox/static/js/7.d36fc5a6.chunk.js.map",
+    "static/js/8.9c64f25d.chunk.js": "/todox/static/js/8.9c64f25d.chunk.js",
+    "static/js/8.9c64f25d.chunk.js.map": "/todox/static/js/8.9c64f25d.chunk.js.map",
+    "static/js/9.34a77d1b.chunk.js": "/todox/static/js/9.34a77d1b.chunk.js",
+    "static/js/9.34a77d1b.chunk.js.map": "/todox/static/js/9.34a77d1b.chunk.js.map",
+    "static/js/10.498a6e19.chunk.js": "/todox/static/js/10.498a6e19.chunk.js",
+    "static/js/10.498a6e19.chunk.js.map": "/todox/static/js/10.498a6e19.chunk.js.map",
+    "static/js/11.67acb69f.chunk.js": "/todox/static/js/11.67acb69f.chunk.js",
+    "static/js/11.67acb69f.chunk.js.map": "/todox/static/js/11.67acb69f.chunk.js.map",
+    "static/js/12.66c6b700.chunk.js": "/todox/static/js/12.66c6b700.chunk.js",
+    "static/js/12.66c6b700.chunk.js.map": "/todox/static/js/12.66c6b700.chunk.js.map",
+    "static/js/13.3e577345.chunk.js": "/todox/static/js/13.3e577345.chunk.js",
+    "static/js/13.3e577345.chunk.js.map": "/todox/static/js/13.3e577345.chunk.js.map",
+    "static/js/14.967def19.chunk.js": "/todox/static/js/14.967def19.chunk.js",
+    "static/js/14.967def19.chunk.js.map": "/todox/static/js/14.967def19.chunk.js.map",
+    "index.html": "/todox/index.html",
+    "precache-manifest.7f0f0754084dc869e3959a6b5872a9e9.js": "/todox/precache-manifest.7f0f0754084dc869e3959a6b5872a9e9.js",
+    "service-worker.js": "/todox/service-worker.js",
+    "static/js/6.ed7519d7.chunk.js.LICENSE.txt": "/todox/static/js/6.ed7519d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab191752.js",
+    "static/js/6.ed7519d7.chunk.js",
+    "static/js/main.a6eeec4f.chunk.js"
+  ]
+}
